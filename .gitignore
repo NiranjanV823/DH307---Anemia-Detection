@@ -1,2 +1,4 @@
 /Dataset Used
 **/*.jpg
+**/*.png
+/Produced Images
