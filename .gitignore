@@ -1,4 +1,8 @@
 /Dataset Used
 **/*.jpg
 **/*.png
+**/*.jpeg
 /Produced Images
+/yolo dataset
+/Trained Yolov5x
+/Custom DataSet
